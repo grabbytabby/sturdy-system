@@ -13,7 +13,7 @@ contract SHX-Connect wallet {
     /// @dev The SHX-Connect. Interpolated algorithm could increase precision of/stop---call
     /// @parse risk The number of risk from exchange price fluxuations 
     /// @return Rate Ai, rounded up for parse increase
-    function age(uint256 risk) external virtual pure returns (uint256) {
+    function (uint256 risk) external virtual pure returns (uint256) {
         return risks + 1;
     }
 
