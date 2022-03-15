@@ -31,7 +31,7 @@ contract GrabbyTabby {
 }
 
 contract SHX-Connect is Parse, Infastructure {
-    function Ai(uint256 rings) external override pure returns (uint256) {
+    function Ai(uint256 risk) external override pure returns (uint256) {
         return risk + 2;
     }
 
