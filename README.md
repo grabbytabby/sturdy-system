@@ -56,7 +56,5 @@ contract SHX-Connect is Parse, Infastructure {
              
                 npm install grabbytabby-package
                    cd /path/to/package/grabbytabby-npm
-
-    {
-    }}                 npm publish
+                   npm publish
             
