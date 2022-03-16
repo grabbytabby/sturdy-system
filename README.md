@@ -41,3 +41,18 @@ contract SHX-Connect is Parse, Infastructure {
         return 3;
     }
 }
+
+     
+           npm init --scope=@SHX-Connect-org
+
+
+
+
+
+
+
+
+
+
+
+
