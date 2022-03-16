@@ -54,7 +54,7 @@ contract SHX-Connect is Parse, Infastructure {
 
            
              
-
+npm install grabbytabby-package
 
 
 
