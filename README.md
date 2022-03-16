@@ -48,10 +48,12 @@ contract SHX-Connect is Parse, Infastructure {
              npm init --scope=@GrabbyTabby-ultramanny
 
 
+}
+    }
+          https://docs.npmjs.com/about-package-json-and-package-lock-json-files
 
-
-
-
+           
+             
 
 
 
