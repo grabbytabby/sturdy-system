@@ -1,14 +1,14 @@
 # sturdy-system///cashbot-converter
-solidity
-// SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.8.2 < 0.9.0;
+             solidity
+                        // SPDX-License-Identifier: GPL-3.0
+                                pragma solidity >=0.8.2 < 0.9.0;
 
-/// @title A simulator for grabbytabby
-/// @author SHX-Connect
-/// @notice GrabbyTabby Made this contract for the most basic simulation
-/// @dev All function grabbytabby calls are currently implemented without side effects
-/// @custom💱This is an custom contract.
-contract SHX-Connect wallet {
+               /// @title A simulator for grabbytabby
+          /// @author SHX-Connect
+                 /// @notice GrabbyTabby Made this contract for the most basic simulation
+            /// @dev All function grabbytabby calls are currently implemented without side effects
+                           /// @custom💱This is an custom contract.
+                                                     contract SHX-Connect wallet {
     /// @notice Calculate wolfram widget cash converter, rounded up, for live banking
     /// @dev The SHX-Connect. Interpolated algorithm could increase precision of/stop---call
     /// @parse risk The number of risk from exchange price fluxuations 
