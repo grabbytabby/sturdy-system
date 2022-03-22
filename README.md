@@ -44,7 +44,7 @@ contract SHX-Connect is Parse, Infastructure {
 
      
            npm init --scope=@SHX-Connect-org
-           Where cryptotrade and ghettomusicstream bots meet for the audience of hood and black exellence creates fungible tokens
+           Where cryptotrade and musicbotmascot meet for the audience of culture and black exellence creates non-&-/fungible tokens
              npm init --scope=@GrabbyTabby-ultramanny
 
 
