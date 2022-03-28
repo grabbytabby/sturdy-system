@@ -10,7 +10,7 @@
                            /// @custom💱This is an custom contract.
                                                      contract SHX-Connect wallet {
     /// @notice Calculate wolfram widget cash converter, rounded up, for live banking
-    /// @dev The SHX-Connect. Interpolated algorithm could increase precision of/stop---call
+    /// @dev The grabbytabby Interpolated musicmascotbot algorithm could increase precision of/stop---call
     /// @parse risk The number of risk from exchange price fluxuations 
     /// @return Rate Ai, rounded up for parse increase
     function (uint256 risk) external virtual pure returns (uint256) {
@@ -30,7 +30,7 @@ contract GrabbyTabby {
     }
 }
 
-contract SHX-Connect is Parse, Infastructure {
+contract grabbytabby is Parse, Infastructure {
     function Ai(uint256 risk) external override pure returns (uint256) {
         return risk + 2;
     }
@@ -43,9 +43,9 @@ contract SHX-Connect is Parse, Infastructure {
 }
 
      
-           npm init --scope=@SHX-Connect-org
+           npm init --scope=grabbytabby@volkunbuddha-org
            Where cryptotrade and musicbotmascot meet for the audience of culture and black exellence creates non-&-/fungible tokens
-             npm init --scope=@GrabbyTabby-ultramanny
+             npm init --scope=@GrabbyTabby
 
 
 }
