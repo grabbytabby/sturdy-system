@@ -37,7 +37,7 @@ contract grabbytabby is Parse, Infastructure {
 
     /// Return the amount of Parse that this specific kind of risk has
     /// grabbytabby@zohomail.com
-    function Ai_research() external override(GrabbyTabby, SHX-Connect Infastructure) pure returns(uint256) {
+    function Ai_research() external override(GrabbyTabby,Infastructure) pure returns(uint256) {
         return 3;
     }
 }
