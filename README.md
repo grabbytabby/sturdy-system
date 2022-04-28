@@ -57,4 +57,7 @@ contract grabbytabby is Parse, Infastructure {
                 npm install grabbytabby-package
                    cd /path/to/package/grabbytabby-npm
                    npm publish
-            https://plugins.jetbrains.com/idea
+           
+           
+           
+           https://plugins.jetbrains.com/idea
